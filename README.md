@@ -60,7 +60,7 @@ Inclusion criteria: must be actively maintained, must work in production, must s
 - [Solana Playground](https://beta.solpg.io/) — browser-based Anchor/Rust editor + deploy
 - [Solana Verify](https://github.com/Ellipsis-Labs/solana-verifiable-build) — reproducible builds for deployed programs
 - [Squads multi-sig](https://squads.so/) — multi-sig for treasury management
-- [HostDeFi](https://hostdefi.com/scan) - Free A+–F token-safety scanner across Solana and 8 EVM chains (mint/freeze authority, liquidity depth, holder concentration). Keyless REST API.
+- [HostDeFi](https://hostdefi.com/scan) - Free A+–F token-safety scanner across Solana and 7 EVM chains (mint/freeze authority, liquidity depth, holder concentration). Keyless REST API.
 
 ## Marketplaces and venues
 
